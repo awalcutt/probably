@@ -5,4 +5,3 @@ authors = ["Alex Walcutt <awalcutt@csh.rit.edu>"]
 
 [dependencies]
 bit-vec = "0.4.3"
-siphasher = "0.2.0"
